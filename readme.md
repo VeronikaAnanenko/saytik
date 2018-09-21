@@ -16,7 +16,17 @@
 
 ## Информация по установке 
 
-Особо сложно не будет.
+- cd domains
+- git clone https://github.com/VeronikaAnanenko/saytik.git
+- cd saytik
+- composer self-update
+- composer install
+- запустить сайт
+В процессе разработки:
+- git add *
+- git commit -m "first commit"
+- git status
+- git push origin master
 
 ## Contributing
 

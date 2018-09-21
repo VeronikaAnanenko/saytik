@@ -23,5 +23,5 @@ Thank you for considering contributing to us! The contribution guide you can get
 
 ## Авторы
 
-- [Вероника Ананенко] (https://vk.com/veronika_ananenko).
-- [Дарья Тарасюк] (https://vk.com/id144303970).
+- [Вероника Ананенко](https://vk.com/veronika_ananenko).
+- [Дарья Тарасюк](https://vk.com/id144303970).
